@@ -68,6 +68,7 @@
             // 
             this.SearchBox.Location = new System.Drawing.Point(70, 44);
             this.SearchBox.Name = "SearchBox";
+            this.SearchBox.ReadOnly = true;
             this.SearchBox.Size = new System.Drawing.Size(289, 23);
             this.SearchBox.TabIndex = 2;
             // 
@@ -75,9 +76,9 @@
             // 
             this.SearchButton.Location = new System.Drawing.Point(365, 44);
             this.SearchButton.Name = "SearchButton";
-            this.SearchButton.Size = new System.Drawing.Size(51, 23);
+            this.SearchButton.Size = new System.Drawing.Size(107, 23);
             this.SearchButton.TabIndex = 3;
-            this.SearchButton.Text = "Search";
+            this.SearchButton.Text = "Paste and Search";
             this.SearchButton.UseVisualStyleBackColor = true;
             this.SearchButton.Click += new System.EventHandler(this.SearchButton_Click);
             // 
