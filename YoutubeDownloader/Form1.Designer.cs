@@ -150,9 +150,9 @@
             this.VideoUrl.AutoSize = true;
             this.VideoUrl.Location = new System.Drawing.Point(129, 309);
             this.VideoUrl.Name = "VideoUrl";
-            this.VideoUrl.Size = new System.Drawing.Size(22, 15);
+            this.VideoUrl.Size = new System.Drawing.Size(285, 15);
             this.VideoUrl.TabIndex = 12;
-            this.VideoUrl.Text = "Url";
+            this.VideoUrl.Text = "https://github.com/FurkanTRN/YoutubeDownloader";
             // 
             // comboBox1
             // 
