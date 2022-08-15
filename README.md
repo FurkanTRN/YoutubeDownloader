@@ -1,5 +1,6 @@
 
 # YoutubeDownloader
+![](https://img.shields.io/badge/.NET-6.0-blue)
 
 ## Dependencies
 
