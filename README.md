@@ -1,6 +1,6 @@
 
 # YoutubeDownloader
-![](https://img.shields.io/badge/.NET-6.0-blue)
+![](https://img.shields.io/badge/.NET-6.0-blue) ![](https://img.shields.io/badge/Windows-Form-red)
 
 ![image](https://user-images.githubusercontent.com/61389047/184653509-3f6af0cc-99af-49de-a153-edcf1cdb3fb1.png)
 
