@@ -28,9 +28,11 @@ namespace YoutubeDownloader
         {
             try
             {
+               
                 comboBox1.Items.Clear();
                 var youtube = new YoutubeClient();
-                var video = await youtube.Videos.GetAsync(SearchBox.Text);
+                var video = await youtube.Videos.GetAsync(Clipboard.GetText());
+                SearchBox.Text=Clipboard.GetText();
                 var streamManifest = await youtube.Videos.Streams.GetManifestAsync(SearchBox.Text);
                 VideoTitle.Text = video.Title.ToString();
                 VideoAuthor.Text = video.Author.ChannelTitle;
