@@ -2,8 +2,7 @@
 # YoutubeDownloader
 ![](https://img.shields.io/badge/.NET-6.0-blue)
 
-![image](https://user-images.githubusercontent.com/61389047/184647342-3e8840a1-688f-45c7-bd4d-ab5fc9b9dfea.png)
-
+![image](https://user-images.githubusercontent.com/61389047/184653509-3f6af0cc-99af-49de-a153-edcf1cdb3fb1.png)
 
 ## Dependencies
 
